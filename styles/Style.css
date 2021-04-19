@@ -1,0 +1,72 @@
+nav
+{
+    background-color: gold;
+}
+
+nav ul
+{
+    text-align: center;
+    font-size:  1cm;
+    
+}
+
+nav ul li
+{
+    list-style-type: none;
+    display: inline;
+    background-color: gold;
+}
+
+nav
+{
+    padding: 5px;
+}
+
+nav ul li
+{
+    padding: 15px;
+    margin: 5px;
+    border: 2px solid gold;
+    border-radius: 10px;
+    
+}
+
+nav ul li:hover
+{
+    background-color: black;
+}
+
+header
+{
+    background-color: gold;
+    padding: 10px;
+}
+
+body
+{ 
+    background-color: gold;
+}
+#maintext
+{
+    color: white;
+    font-family: arial;
+    
+
+}
+
+#active
+{
+    background-color: blue;
+}
+
+footer
+{
+    background-color: gold;
+}
+
+footer p 
+{
+    color: white;
+    text-align: center;
+}
+
